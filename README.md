@@ -9,4 +9,4 @@ min: 50;<br>
 &lt;/div><br>
 Note: Put AML inside a div element with id aml. Only use a single element, put all aml in it. 
 
-Either download from here or host from <a href='https://aml.js.surge.sh/aml.js'>https://aml.js.surge.sh/aml.js</a> and <a href='https://aml.js.surge.sh/aml.css'>https://aml.js.surge.sh/aml.css</a>.
+Either download from here or host from <a href='https://amljs.surge.sh/aml.js'>https://amljs.surge.sh/aml.js</a> and <a href='https://amljs.surge.sh/aml.css'>https://amljs.surge.sh/aml.css</a>.
